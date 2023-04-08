@@ -7,7 +7,13 @@ Here we archive most of the assignment answers, exam papers, lab reports, and a 
 
 We encourage all students who use this repo to actively build it.
 
-# 
+# 文件结构
+> Course-Hero  
+> -课程 Course  
+> --Assignment  
+> --Lab
+> --Exam
+> --Reference
 
 # 说明 Declaration
 内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎提交issue或邮件联系我。
