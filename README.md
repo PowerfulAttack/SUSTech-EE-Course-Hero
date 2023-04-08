@@ -10,9 +10,11 @@ We encourage all students who use this repo to actively build it.
 # 文件结构
 > Course-Hero  
 > -课程 Course  
-> --Assignment  
-> --Lab  
-> --Exam  
+> --Assignment_Answer  
+> --Lab
+> ---Report
+> ---Code  
+> --Exam_Paper  
 > --Reference  
 
 # 说明 Declaration
