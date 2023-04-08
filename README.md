@@ -10,7 +10,7 @@ We encourage all students who use this repo to actively build it.
 # 说明 Declaration
 内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎提交issue或邮件联系我。
 
-Content sources could be QQ group files etc. We can not guarantee 100% specification, if any part of the content violates your rights, feel free to submit an issue or mail contact me.
+Content sources could be QQ group files and etc. We can not guarantee 100% specification, if any part of the content violates your rights, feel free to submit an issue or mail contact me.
 
 # 广告 Ads
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，欢迎加入。
