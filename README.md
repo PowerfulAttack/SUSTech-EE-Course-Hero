@@ -1,5 +1,5 @@
-# SUSTech-EE-Course-Answer
-这个仓库归档了南方科技大学电子系本科同学课程的大部分习题答案、考试试卷、实验报告以及少部分复习参考资料。
+# SUSTech-EE-Course-Hero
+这个仓库归档了南方科技大学电子系本科同学课程的大部分习题答案、参考资料、实验报告以及考试试卷。
 
 鼓励各位使用本仓库的同学积极建设本仓库。
 
@@ -13,7 +13,7 @@ We encourage all students who use this repo to actively build it.
 Content sources could be QQ group files and etc. We can not guarantee 100% specification, if any part of the content violates your rights, feel free to submit an issue or mail contact me.
 
 # 广告 Ads
-“电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，欢迎加入。
+“电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
 "电子求生营" is a QQ group chat established on March 4, 2022, aiming to build a communication platform for students from the EEE, SDIM and SME, welcome to join.
 !(QR Code of 电子求生营){}
