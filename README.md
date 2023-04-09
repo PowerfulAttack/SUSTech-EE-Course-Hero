@@ -28,4 +28,4 @@ Content sources could be QQ group files and etc. We can not guarantee 100% speci
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
 "电子求生营" is a QQ group chat established on March 4, 2022, aiming to build a communication platform for students from the EEE, SDIM and SME, welcome to join.
-!(QR Code of 电子求生营){}
+![QR Code of 电子求生营](电子求生营QRCode.png)
