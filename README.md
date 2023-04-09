@@ -8,20 +8,31 @@ Here we archive most of the assignment answers, exam papers, lab reports, and a 
 We encourage all students who use this repo to actively build it.
 
 # 文件结构
-> Course-Hero  
-> -课程 Course  
-> --Assignment_Answer  
-> ---Problems
-> ---Answer
-> --Lab
-> ---Report
-> ---Code  
-> --Exam_Paper  
-> --Reference  
+├─EE201-17L_模拟电路实验_Analog Circuits Laboratory
+├─EE201-17_模拟电路
+│  ├─Assignment_Answer
+│  ├─Exam_Paper
+│  └─Reference
+├─EE202-17L_数字电路实验_Digital Circuits Lab
+├─EE202-17_数字电路
+│  ├─Assignment_Answer
+│  ├─Exam_Paper
+│  └─Reference
+├─EE205_信号与系统
+│  ├─Assignment_Answer
+│  ├─Exam_Paper
+│  └─Reference
+├─EE332_数字系统设计
+├─MA212_概率论与数理统计
+│  ├─Exam_Paper
+│  │  └─概统_2020秋_quiz
+│  └─Reference
+└─SDM242_模拟电路系统设计_Analog Circuit System Design
+    └─Study_Note
 
-# 数电
+## EE202_数字电路_Digital-Circuits
 ### 习题答案
-习题来自于国内经典教材，有对应的[习题解答](EE202-17_数字电路\Reference\数字电子技术基础 学习辅导与习题解答 第6版 (阎石，王红编) (z-lib.org).pdf数字电子技术基础 学习辅导与习题解答 第6版 (阎石，王红编) (z-lib.org).pdf)。
+习题来自于国内经典教材，有对应的[习题解答册](EE202-17_数字电路\Reference\数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
 ### 过往试卷
 ### Tips:
 * 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
