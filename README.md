@@ -36,6 +36,14 @@ We encourage all students who use this repo to actively build it.
 
 ---
 
+## EE205_信号与系统_Signal-and-System
+### 习题答案
+可以参考[仓库里的Tutorial](EE205_信号与系统_Signal-and-System/Assignment_Answer)也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案
+
+### 过往试卷
+
+比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
+
 ## EE202_数字电路_Digital-Circuits
 ### 习题答案
 习题来自于国内经典教材，有对应的[习题解答册](EE202-17_数字电路_Digital-Circuit/Reference/数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
