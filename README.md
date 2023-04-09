@@ -32,7 +32,7 @@ We encourage all students who use this repo to actively build it.
 
 ## EE202_数字电路_Digital-Circuits
 ### 习题答案
-习题来自于国内经典教材，有对应的[习题解答册](EE202-17_数字电路\Reference\数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
+习题来自于国内经典教材，有对应的[习题解答册](\EE202-17_数字电路\Reference\数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
 ### 过往试卷
 ### Tips:
 * 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
