@@ -12,7 +12,6 @@ _This page is also available in <a href="./README.en.md">English</a>_
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                              [![File Count](https://img.shields.io/github/directory-file-count/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                                    [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)                                                          [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                              [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
 
-# SUSTech-EE-Course-Hero
 这个仓库归档了南方科技大学本科同学电子相关课程的部分习题答案、参考资料、实验报告以及考试试卷。
 
 鼓励各位使用本仓库的同学积极建设本仓库。

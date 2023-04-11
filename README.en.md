@@ -10,7 +10,6 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                              [![File Count](https://img.shields.io/github/directory-file-count/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                                    [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)                                                          [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                              [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
 
-# SUSTech-EE-Course-Hero
 
 Here we archive most of the assignment answers, exam papers, lab reports, and a few review references for undergraduate courses in the Department of Electrical and Electronic Engineering.
 
