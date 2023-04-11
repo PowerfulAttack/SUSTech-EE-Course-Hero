@@ -11,34 +11,34 @@ We encourage all students who use this repo to actively build it.
 
 ---
 
-# 文件结构
-├─EE201-17L_模拟电路实验_Analog Circuits Laboratory
-├─EE201-17_模拟电路_Analog-Circuit
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  └─Reference
-├─EE202-17L_数字电路实验_Digital Circuits Lab
-├─EE202-17_数字电路_Digital-Circuit
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  └─Reference
-├─EE205_信号与系统_Signal-and-System
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  └─Reference
-├─EE206_通信原理_Communication-Principles
-│  ├─Assignment_Answer
-│  ├─Exam_Paper
-│  ├─Lab_Report
-│  ├─Reference
-│  └─Slides
-├─EE332_数字系统设计
-├─MA212_概率论与数理统计_Probability-and-Statistics
-│  ├─Exam_Paper
-│  │  └─概统_2020秋_quiz
-│  └─Reference
-└─SDM242_模拟电路系统设计_Analog Circuit System Design
-    └─Study_Note
+# 文件结构  
+> ├─EE201-17L_模拟电路实验_Analog Circuits Laboratory  
+├─EE201-17_模拟电路_Analog-Circuit  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  └─Reference  
+├─EE202-17L_数字电路实验_Digital Circuits Lab  
+├─EE202-17_数字电路_Digital-Circuit  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  └─Reference  
+├─EE205_信号与系统_Signal-and-System  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  └─Reference   
+├─EE206_通信原理_Communication-Principles  
+│  ├─Assignment_Answer  
+│  ├─Exam_Paper  
+│  ├─Lab_Report  
+│  ├─Reference  
+│  └─Slides  
+├─EE332_数字系统设计  
+├─MA212_概率论与数理统计_Probability-and-Statistics  
+│  ├─Exam_Paper  
+│  │  └─概统_2020秋_quiz  
+│  └─Reference  
+└─SDM242_模拟电路系统设计_Analog Circuit System Design  
+    └─Study_Note  
 ---
 
 ## EE205_信号与系统_Signal-and-System
