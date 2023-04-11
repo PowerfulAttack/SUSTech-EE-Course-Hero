@@ -5,18 +5,17 @@
   SUSTech EE Course Hero
 </h1>
 <p align="center">
-  在南科大，被<a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><b>电子课程</b></a>折磨？ 没事，EE Course Hero来咯~
+  This repo offer you organized learning material in <a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><i>SUSTech EE Course</i></a>.
 </p>
-
-_This page is also available in <a href="./README.en.md">English</a>_
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                              [![File Count](https://img.shields.io/github/directory-file-count/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                                    [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)                                                          [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                              [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
 
 # SUSTech-EE-Course-Hero
-这个仓库归档了南方科技大学本科同学电子相关课程的部分习题答案、参考资料、实验报告以及考试试卷。
 
-鼓励各位使用本仓库的同学积极建设本仓库。
+Here we archive most of the assignment answers, exam papers, lab reports, and a few review references for undergraduate courses in the Department of Electrical and Electronic Engineering.
 
+We encourage all students who use this repo to actively build it.
+ 
 ---
 
 # 文件结构  
@@ -49,6 +48,7 @@ _This page is also available in <a href="./README.en.md">English</a>_
     └─Study_Note  
 ---
 
+ 
 ## EE205_信号与系统_Signal-and-System
 ### 习题答案
 可以参考[仓库里的Tutorial](EE205_信号与系统_Signal-and-System/Assignment_Answer)也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案
@@ -72,13 +72,13 @@ _This page is also available in <a href="./README.en.md">English</a>_
 
 ---
 
-# 说明
-内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎提交issue或邮件联系我。
+# Declaration
+
+Content sources could be QQ group files and etc. We can not guarantee 100% specification, if any part of the content violates your rights, feel free to submit an issue or mail contact me.
 
 ---
 
-# 广告
-“电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
+# Ads
+"电子求生营" is a QQ group chat established on March 4, 2022, aiming to build a communication platform for students from the EEE, SDIM and SME, welcome to join.  
 
-![QR Code of 电子求生营](电子求生营QRCode.png) 
- > 群设置不可通过二维码加群，可以通过搜索群号申请加入 **_868933896_**
+![QR Code of 电子求生营](电子求生营QRCode.png)
