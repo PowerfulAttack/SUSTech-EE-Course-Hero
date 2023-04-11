@@ -5,7 +5,7 @@
   SUSTech EE Course Hero
 </h1>
 <p align="center">
-  This repo offer you organized learning material in <a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><i>SUSTech EE Course</i></a>.
+  <img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/ghost_1f47b.png">his repo offer you organized learning material in <a href="https://nces.cra.moe/search/?q=ee+sme+sdm"><i>SUSTech EE Course</i></a> <img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/ghost_1f47b.png">
 </p>
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                              [![File Count](https://img.shields.io/github/directory-file-count/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                                    [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)                                                          [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                              [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
