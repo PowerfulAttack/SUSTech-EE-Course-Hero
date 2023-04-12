@@ -1,7 +1,7 @@
 <div>
 <p align="center">
 <a href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
-  <img width="190" src="hero_logo.png" alt="Course Hero logo">
+  <img width="190" src="https://i.328888.xyz/2023/04/12/iXOQLU.png" alt="Course Hero logo">
 </a>
   </p>  
 <h1 align="center">
@@ -87,6 +87,6 @@ _This page is also available in [English](README.en.md)_
 # :telephone_receiver: 保持联系
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
-[![QR Code of 电子求生营](电子求生营QRCode.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
+[![QR Code of 电子求生营](https://i.328888.xyz/2023/04/12/iXO1gp.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
  > :point_up: **点击**或**扫描**二维码即可跳转加群  
  > :mag: 也可搜索群号 **_868933896_** 申请加群
