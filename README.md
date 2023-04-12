@@ -1,4 +1,11 @@
-<a style="display:inline-block; width:110px; align:center" href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
+<div>
+<a style="width: 20%;
+padding-top: 15px;
+font-size: 15px;
+color: white;
+text-align: center;
+display: block;
+float: left;" href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
   <img width="190" src="hero_logo.png" alt="Course Hero logo">
 </a>
 <h1 align="center">
@@ -10,6 +17,7 @@
 <p align="center">
   <img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">没事，EE Course Hero来咯~<img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">
 </p>
+</div>
 
 _This page is also available in [English](README.en.md)_ 
 
