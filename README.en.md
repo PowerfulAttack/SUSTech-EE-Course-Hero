@@ -61,5 +61,5 @@ Content sources could be QQ group files and etc. We can not guarantee 100% speci
 "电子求生营" is a QQ group chat established on March 4, 2022, aiming to build a communication platform for students from the EEE, SDIM and SME, welcome to join.  
 
 [![QR Code of 电子求生营](电子求生营QRCode.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
- > :point_up: **Click** or **Scan** above QR Code to join the group
+ > :point_up: **Click** or **Scan** above QR Code to join the group  
  > :mag: Or using **_868933896_** to search in QQ
