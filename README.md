@@ -1,4 +1,4 @@
-<p align="center" href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc“>
+<p align="center" href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc" >
   <img width="190" src="hero_logo.png" alt="Course Hero logo">
 </p>
 <h1 align="center">
