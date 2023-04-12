@@ -84,5 +84,5 @@ _This page is also available in [English](README.en.md)_
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
 [![QR Code of 电子求生营](电子求生营QRCode.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
- > :point_up: **点击**或**扫描**二维码即可跳转加群
+ > :point_up: **点击**或**扫描**二维码即可跳转加群  
  > :mag: 或搜索群号 **_868933896_** 申请加群
