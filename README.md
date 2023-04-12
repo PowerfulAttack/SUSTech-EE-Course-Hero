@@ -1,5 +1,5 @@
-<p align="center">
-  <img width="190" src="hero_logo.png" href="https://nces.cra.moe/search/?q=ee+sme+sdm alt="Course Hero logo">
+<p align="center" href="https://www.pixilart.com/art/ee-course-hero-sr21e1386dbc7cc“>
+  <img width="190" src="hero_logo.png" alt="Course Hero logo">
 </p>
 <h1 align="center">
   SUSTech EE Course Hero
