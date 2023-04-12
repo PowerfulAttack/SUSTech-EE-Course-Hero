@@ -13,11 +13,11 @@
 
 Here we archive most of the assignment answers, exam papers, lab reports, and a few review references for undergraduate courses in the Department of Electrical and Electronic Engineering.
 
-We encourage all students who use this repo to actively build it.
+We encourage all students who use this repo to actively build it and by the way a Star:star:.
  
 ---
 
-# 文件结构  
+# :books: File Structures
 > ├─EE201-17L_模拟电路实验_Analog Circuits Laboratory  
 ├─EE201-17_模拟电路_Analog-Circuit  
 │  ├─Assignment_Answer  
@@ -47,37 +47,19 @@ We encourage all students who use this repo to actively build it.
     └─Study_Note  
 ---
 
+# :children_crossing:Course Index
  
-## EE205_信号与系统_Signal-and-System
-### 习题答案
-可以参考[仓库里的Tutorial](EE205_信号与系统_Signal-and-System/Assignment_Answer)也可以去[Quizlet](https://quizlet.com/explanations/textbook-solutions/signals-and-systems-2nd-edition-9780138147570)看课本答案
-
-### 过往试卷
-
-比较少，[有待补充](EE205_信号与系统_Signal-and-System/Exam_Paper)
-
-## EE202_数字电路_Digital-Circuits
-### 习题答案
-习题来自于国内经典教材，有对应的[习题解答册](EE202-17_数字电路_Digital-Circuit/Reference/数字电子技术基础_学习辅导与习题解答_第6版_(阎石，王红编)_(z-lib.org).pdf)。
-### 过往试卷
-暂无
-### Tips:
-* 以下几个网站能够转换和简化逻辑表达式、真值表、卡诺图和Verilog：
-  * [ictlab.kz/extra/Kmap](https://ictlab.kz/extra/Kmap/)
-  * [charlie-coleman.com](https://charlie-coleman.com/experiments/kmap/)
-  * [web.stanford.edu](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
-* 卡西欧计算器可以方便地进行进制转换、补码原码转换，具体内容参见说明书**基数计算**部分
-  * [casio-fx-991cn-x说明书](https://manualzz.com/doc/50885404/casio-fx-991cn-x-%E8%AF%B4%E6%98%8E%E4%B9%A6)
-
 ---
 
-# Declaration
+# :mortar_board: Declaration
 
 Content sources could be QQ group files and etc. We can not guarantee 100% specification, if any part of the content violates your rights, feel free to submit an issue or mail contact me.
 
 ---
 
-# Ads
+# :telephone_receiver: Keep in Touch
 "电子求生营" is a QQ group chat established on March 4, 2022, aiming to build a communication platform for students from the EEE, SDIM and SME, welcome to join.  
 
-![QR Code of 电子求生营](电子求生营QRCode.png)
+[![QR Code of 电子求生营](电子求生营QRCode.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
+ > :point_up: **Click** or **Scan** above QR Code to join the group
+ > :mag: Or using **_868933896_** to search in QQ

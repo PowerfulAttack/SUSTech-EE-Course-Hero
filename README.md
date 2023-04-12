@@ -10,7 +10,8 @@
 <p align="center">
   <img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">没事，EE Course Hero来咯~<img height="25"src="https://em-content.zobj.net/source/microsoft-teams/337/oncoming-fist_1f44a.png">
 </p>
-_This page is also available in <a href="./README.en.md">English</a>_
+
+_This page is also available in [English](README.en.md)_ 
 
 [![Repo Size](https://img.shields.io/github/repo-size/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                              [![File Count](https://img.shields.io/github/directory-file-count/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero)                                                                                                                    [![GitHub license](https://img.shields.io/github/license/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/blob/main/LICENSE)                                                          [![GitHub contributors](https://img.shields.io/github/contributors/drinktoomuchsax/SUSTech-EE-Course-Hero)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/graphs/contributors/)                              [![GitHub stars](https://img.shields.io/github/stars/drinktoomuchsax/SUSTech-EE-Course-Hero?style=social)](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/stargazers/)
 
@@ -20,7 +21,7 @@ _This page is also available in <a href="./README.en.md">English</a>_
 
 ---
 
-# 文件结构  
+# :books: 文件结构  
 > ├─EE201-17L_模拟电路实验_Analog Circuits Laboratory  
 ├─EE201-17_模拟电路_Analog-Circuit  
 │  ├─Assignment_Answer  
@@ -49,6 +50,7 @@ _This page is also available in <a href="./README.en.md">English</a>_
 └─SDM242_模拟电路系统设计_Analog Circuit System Design  
     └─Study_Note  
 ---
+# :children_crossing:课程索引
 
 ## EE205_信号与系统_Signal-and-System
 ### 习题答案
@@ -73,13 +75,14 @@ _This page is also available in <a href="./README.en.md">English</a>_
 
 ---
 
-# 说明
-内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎提交issue或邮件联系我。
+# :mortar_board: 说明
+内容来源为各QQ群文件、人传人资料等等，不能保证百分百规范，如果某部分内容侵犯了你的权益，欢迎[提交issue](https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero/issues/new)或<a href="mailto:drinktoomuchsax@qq.com">邮件联系</a>我。
 
 ---
 
-# 广告
+# :telephone_receiver: 保持联系
 “电子求生营”是2022年3月4日建成的QQ群聊，旨在为电子系、SDIM、微电子学院的同学搭建交流平台，本仓库初始的大部分文件就来自于这个QQ群，欢迎加入。
 
-![QR Code of 电子求生营](电子求生营QRCode.png) 
- > 群设置不可通过二维码加群，可以通过搜索群号申请加入 **_868933896_**
+[![QR Code of 电子求生营](电子求生营QRCode.png)](https://qm.qq.com/cgi-bin/qm/qr?k=yfgWdhDg_6PMpfJoAmHeDMJU4Zil21PM&jump_from=webapi&authKey=EMWTKJwK77Lrx6plXWzJHfXihYLV3JVRDe/ou4qaipORA88OiKtVsus+gFOVAJNd)
+ > :point_up: **点击**或**扫描**二维码即可跳转加群
+ > :mag: 或搜索群号 **_868933896_** 申请加群
